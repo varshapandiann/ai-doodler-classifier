@@ -1,4 +1,4 @@
-# 🎨 AI Doodler – Sketch Classifier
+# 🎨 AI Doodle Sketch Classifier
 
 An interactive deep learning web app that allows users to draw sketches on a canvas, and the model predicts what the sketch is (e.g., cat, tree, fish, etc.).
 
